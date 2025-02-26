@@ -1,0 +1,4 @@
+def raise_power (base,exponent):
+    return base ** exponent 
+
+print(raise_power(exponent=3,2))
