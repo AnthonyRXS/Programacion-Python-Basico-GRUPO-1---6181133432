@@ -1,6 +1,2 @@
-
-
-#ALKAL
-
-print("Hello, World!")
-
+#Examen de Programación
+print(3 + "5")
